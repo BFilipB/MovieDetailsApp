@@ -1,0 +1,14 @@
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\bin\Debug\netcoreapp2.1\MovieDetailsApp.deps.json
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\bin\Debug\netcoreapp2.1\MovieDetailsApp.runtimeconfig.json
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\bin\Debug\netcoreapp2.1\MovieDetailsApp.runtimeconfig.dev.json
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\bin\Debug\netcoreapp2.1\MovieDetailsApp.dll
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.csprojAssemblyReference.cache
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.RazorAssemblyInfo.cache
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.RazorAssemblyInfo.cs
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.AssemblyInfoInputs.cache
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.AssemblyInfo.cs
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.RazorTargetAssemblyInfo.cache
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\bin\Debug\netcoreapp2.1\MovieDetailsApp.pdb
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.dll
+C:\Users\fb26288\Desktop\MovieDetailsApp\MovieDetailsApp\obj\Debug\netcoreapp2.1\MovieDetailsApp.pdb
